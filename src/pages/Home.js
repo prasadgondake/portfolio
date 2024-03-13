@@ -29,8 +29,8 @@ function Home() {
             </div>
 
             <div className='font-bold text-white md:px-5'>
-              <h1 className='text-6xl md:text-4xl' data-aos='slide-right'>Hii , I am <b className='text-yellow-500'>PRASAD</b></h1>
-              <h1 className='text-4xl md:text-xl' data-aos='slide-left'>FrontEnd <b className='text-red-500'>Developer</b> , Gamer</h1>
+              <h1 className='text-6xl md:text-4xl'>Hii , I am <b className='text-yellow-500'>PRASAD</b></h1>
+              <h1 className='text-4xl md:text-xl'>FrontEnd <b className='text-red-500'>Developer</b> , Gamer</h1>
             </div>
 
           </div>
