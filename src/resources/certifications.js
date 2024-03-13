@@ -23,7 +23,7 @@ const certificationsData = [
     {
       title: "Internship at Exposys Data Labs",
       image:
-        "https://th.bing.com/th/id/R.0fa29aa5edb4b5b73968f75a67a2f5c0?rik=z9zGskieIvHuwQ&riu=http%3a%2f%2fexposysdata.com%2fPranshu+Gupta+LOGO+Exposys+data+labs+Blue.png&ehk=BR7%2bibySesn4Oj2s5Dmxx8w%2fV2D%2fBN87%2fl5CzCcJOQY%3d&risl=&pid=ImgRaw&r=0",
+        "https://static.wixstatic.com/media/723ef3_754c2ceb482b4640a6c8833a07237b85~mv2.png/v1/fill/w_680,h_385,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Image-empty-state.png",
   
       link: "https://drive.google.com/file/d/1MGZT3lyNUGIBicVuzYlJmnnsa4g_Y0AJ/view?usp=sharing",
     },
