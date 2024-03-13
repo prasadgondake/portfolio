@@ -22,7 +22,7 @@ const projectsData = [
     },
     {
       title: "SOCIAL NETWORKER",
-      image: "https://th.bing.com/th/id/R.c1359985c3a6f87cf0a3507272b988b0?rik=FB5qufi8PCYFPA&riu=http%3a%2f%2fgvssbst.com%2fwp-content%2fuploads%2f2020%2f04%2fnetworking.jpg&ehk=GQCd4B3yJiotMuO5xstidYrPDPtBIQir7gm6FvX%2fMKo%3d&risl=&pid=ImgRaw&r=0",
+      image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-vector%2Fcharacters-people-their-social-network-illustration_3226326.htm&psig=AOvVaw2Tzj4QaVV09r1x3cgb8rfk&ust=1710433242553000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOj-4L_S8YQDFQAAAAAdAAAAABAS",
       description:
         "A Social Network application developed using react , redux , firebase and tailwind css",
       link: "https://social-networker.netlify.app/login",
