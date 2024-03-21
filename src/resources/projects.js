@@ -27,13 +27,7 @@ const projectsData = [
         "A Social Network application developed using react , redux , firebase and tailwind css",
       link: "https://social-networker.netlify.app/login",
     },
-    {
-      title: "SHEYJOBS",
-      image: "./jobs.svg",
-      description:
-        "An ecommerce application developed using react , node , redux and mongodb",
-      link: "/",
-    },
+    
     {
       title: "DevConnector",
       image: "./socialmedia.svg",
